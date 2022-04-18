@@ -6,5 +6,5 @@ their doctors ( we try to cover almost all hospitals and private clinics ). When
 user book a appointment then hospital has a right to cancel or approve his
 appointment in case of approved a auto-calculated time and serial number is
 assigned to the patient. In this way hospital and clinics can have an online
-track of their patients. Server is designed on Mongo-Db and android
+track of their patients. Server is designed on Firebase and android
 application is built with Android Studio.
