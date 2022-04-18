@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/activity_appointment_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/activity_book_appointment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/activity_departments.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/activity_doctor_profile.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/activity_doctors.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/activity_edit_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/activity_forgot_password.xml" value="0.1" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/activity_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/app_bar_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/content_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/dialogue_appointment_details.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/dialogue_choose.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/dialogue_register_doctor.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/dialogue_set_appointment_status.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/dialogue_set_appointment_taking_schedule.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/fragment_appointment_request.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/fragment_history.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/fragment_home.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/fragment_notification.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/layout_appointment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/layout_appointment_request.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/layout_date_time_filter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/layout_department.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/layout_doctor.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/layout_input_department_dialogue.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/layout_number_picker_dialogue.xml" value="0.4" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/layout_password_authenticate.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/layout_register_hospital.xml" value="0.264" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/layout_show_profile_image.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/layout_single_string_title.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/login_welcome_layout.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/layout/shimmer_layout_appointments.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/menu/home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/menu/profile_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dhanv/AndroidStudioProjects/HospitalApp-master/app/src/main/res/menu/search_view_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
